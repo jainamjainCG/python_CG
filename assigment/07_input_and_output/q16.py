@@ -1,0 +1,1 @@
+# Because the input but defaultly Give string instead of an integer that's why A string concatenation happens instead of numeric addition
