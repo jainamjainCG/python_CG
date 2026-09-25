@@ -1,5 +1,5 @@
 num = int(input("enter a number :"))
-for i in range(1,num):
-    for j in range(1,num):
+for i in range(1,num+1):
+    for j in range(1,num+1):
         print(j**2,end=" ")
     print()
