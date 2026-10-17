@@ -5,4 +5,4 @@ for ch in word:
         break
     print(ch)
 
-# output = "s,k,y,l"
+# output = "s,k,y,l,"
